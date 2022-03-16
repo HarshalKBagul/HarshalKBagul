@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/HarshalKBagul](https://github.com/HarshalKBagul)
 
-- 💬 Ask me about **Front-end developement **
+- 💬 Ask me about **Front-end developement & Mysql**
 
 - 📫 How to reach me **harshalkbagul1125@gmail.com**
 

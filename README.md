@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **secret project**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HarshalKBagul](https://github.com/HarshalKBagul)
 
